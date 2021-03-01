@@ -25,5 +25,5 @@ Advantages:
   Applications:
   •	The system can be very well used by the book shopkeepers to expand their customers.
   •	The system can also be implemented in publishing houses.
-![image](https://user-images.githubusercontent.com/48416027/109555830-a7488780-7a9b-11eb-9a72-f2dbfd370a90.png)
+
 
